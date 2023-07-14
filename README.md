@@ -17,7 +17,7 @@ This will create a copy of the repository in your own GitHub account, allowing y
 ### Import the Model in Inferless
 Log in to your inferless account, select the workspace you want the model to be imported into and click the Add Model button.
 
-Select the _________ framework and choose **Repo(custom code)** as your model source and use the forked repo URL as the **Model URL**.
+Select PyTorch and choose **Repo(custom code)** as your model source and use the forked repo URL as the **Model URL**.
 
 Enter all the required details to Import your model. Refer [this link](https://docs.inferless.com/integrations/github-custom-code) for more information on model import.
 
